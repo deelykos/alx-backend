@@ -173,7 +173,7 @@ Before returning a URL-provided or user time zone, you must validate that it is 
 
 solution - [7-app.py](./7-app.py)
 
-### + [x] 8. **Display the current time**
+### 8. **Display the current time**
   + Copy [7-app.py](7-app.py) into [app.py](app.py) and [templates/7-index.html](templates/7-index.html) into [templates/index.html](templates/index.html).
   + Based on the inferred time zone, display the current time on the home page in the default format. For example:
     `Jan 21, 2020, 5:55:39 AM` or `21 janv. 2020 à 05:56:28`.
